@@ -4,7 +4,7 @@
  Puedes descargar los archivos desde este repositorio:
 
 -  **[A1_3_Regresion_lineal_multiple.ipynb](A1_3_Regresión_lineal_múltiple.ipynb)**
--  **[A1.3 NASA.csv](https://github.com/raulquinterog/Regresion-Multiple/raw/main/A1.3%20NASA.csv)**
+-  **[A1.3 NASA.csv](A1.3 NASA.csv)**
 
 
 
