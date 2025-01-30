@@ -1,12 +1,11 @@
 #  Regresión Lineal Múltiple - Análisis de Datos de la NASA
 
-from google.colab import files  # Solo si usas Google Colab
-files.download("A1_3_Regresión_lineal_múltiple.ipynb")
-files.download("README.md")
+## **Descargar archivos del proyecto**
+ Puedes descargar los archivos desde este repositorio:
 
-import shutil
-shutil.copy("A1_3_Regresión_lineal_múltiple.ipynb", "/content/A1_3_Regresión_lineal_múltiple.ipynb")
-shutil.copy("README.md", "/content/README.md")
+-  **[A1_3_Regresion_lineal_multiple.ipynb](https://github.com/raulquinterog/Regresion-Multiple/raw/main/A1_3_Regresion_lineal_multiple.ipynb)**
+-  **[A1.3 NASA.csv](https://github.com/raulquinterog/Regresion-Multiple/raw/main/A1.3%20NASA.csv)**
+
 
 
 Este proyecto realiza una **Regresión Lineal Múltiple** para predecir la variable `presion` (nivel de presión sonora) con base en otras cinco variables aerodinámicas extraídas de una base de datos de la **NASA**.
