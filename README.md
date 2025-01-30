@@ -3,7 +3,7 @@
 
 Este proyecto realiza una **Regresión Lineal Múltiple** para predecir la variable `presion` (nivel de presión sonora) con base en otras cinco variables aerodinámicas extraídas de una base de datos de la **NASA**.
 
-📌 **Objetivo:**  
+ **Objetivo:**  
 Analizar los datos y construir un modelo de regresión para identificar qué variables tienen un impacto significativo en la predicción de `presion`.
 
 ---
