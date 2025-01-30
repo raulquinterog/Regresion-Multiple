@@ -3,8 +3,8 @@
 ## **Descargar archivos del proyecto**
  Puedes descargar los archivos desde este repositorio:
 
--  **[A1_3_Regresion_lineal_multiple.ipynb](A1_3_Regresión_lineal_múltiple.ipynb)**
--  **[A1.3 NASA.csv](A1.3 NASA.csv)**
+-  **[Regresion_lineal_multiple.ipynb](A1_3_Regresión_lineal_múltiple.ipynb)**
+-  **[NASA.csv](A1.3_NASA.csv)**
 
 
 
